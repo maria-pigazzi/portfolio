@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+
+.start {
+  background-color: #373644;
+  height: 100vh;
+  padding-top: 40px;
+}
+
+.skills {
+  background-color: red;
+  height: 100vh;
+  padding-top: 40px;
+}
+
+.ball {
+  position: absolute;
+  border-radius: 100%;
+  opacity: 0.7;
+}
