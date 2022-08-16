@@ -2,20 +2,14 @@ body {
   margin: 0;
 }
 
-.start {
+/* Start Section */
+
+#start {
   background-color: #373644;
-  height: 100vh;
-  padding-top: 40px;
+  padding: 9%;
+  text-align: center;
 }
 
-.skills {
-  background-color: red;
-  height: 100vh;
-  padding-top: 40px;
-}
-
-.ball {
-  position: absolute;
-  border-radius: 100%;
-  opacity: 0.7;
+.pink-text {
+  color: #F56D91;
 }
